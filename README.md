@@ -2,8 +2,6 @@
 
 A new Flutter project. This application will play different tone on click each buttons.
 
-## https://github.com/londonappbrewery/xylophone-flutter
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
